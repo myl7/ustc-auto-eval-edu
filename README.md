@@ -2,11 +2,11 @@
 
 USTC 自动评教脚本
 
-# Language
+## Language
 
 Python on JupyterLab
 
-# Usage
+## Usage
 
 首先安装 Python 依赖：
 
@@ -34,6 +34,6 @@ jupyter lab
 
 USTC 评教系统有访问频率限制，但重置较快，脚本中的注释对此情况下的操作有所说明
 
-# License
+## License
 
 MIT
